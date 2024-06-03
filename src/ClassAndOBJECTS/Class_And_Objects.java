@@ -18,8 +18,3 @@ public class Class_And_Objects {
     }
 }
 
-// ниже создаётся абстрактный класс
-class Person {
-    String name;
-    int age;
-}
